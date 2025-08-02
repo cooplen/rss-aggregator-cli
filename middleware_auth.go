@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/0atme41/rssagg/internal/auth"
-	"github.com/0atme41/rssagg/internal/database"
+	"github.com/cooplen/rss-aggregator-cli/internal/auth"
+	"github.com/cooplen/rss-aggregator-cli/internal/database"
 )
 
 // an http handler similar to a normal handler except with an authenticated

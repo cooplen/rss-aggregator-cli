@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/0atme41/rssagg/internal/database"
+	"github.com/cooplen/rss-aggregator-cli/internal/database"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"github.com/joho/godotenv"

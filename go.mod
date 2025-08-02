@@ -1,4 +1,4 @@
-module github.com/0atme41/rssagg
+module github.com/cooplen/rss-aggregator-cli
 
 go 1.24.0
 

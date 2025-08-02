@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/0atme41/rssagg/internal/database"
+	"github.com/cooplen/rss-aggregator-cli/internal/database"
 	"github.com/google/uuid"
 )
 
